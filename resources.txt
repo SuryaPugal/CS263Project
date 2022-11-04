@@ -1,0 +1,5 @@
+# https://electropeak.com/learn/web-scraping-raspberry-pi-python-tutorial-guide/
+
+#https://www.ndbc.noaa.gov/station_page.php?station=46054 - site to scrape?
+
+#https://blog.devgenius.io/a-performance-analysis-of-c-and-go-82a378be8c87 - ideas on how to peform analysis
