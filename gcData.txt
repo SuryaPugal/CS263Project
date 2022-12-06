@@ -1,0 +1,26 @@
+gc: collecting generation 0...
+gc: objects in each generation: 490 2469 82371
+gc: objects in permanent generation: 0
+gc: done, 0 unreachable, 0 uncollectable, 0.0001s elapsed
+--- 0.023236751556396484 seconds ---
+gc: collecting generation 2...
+gc: objects in each generation: 84 2737 82355
+gc: objects in permanent generation: 0
+gc: done, 0 unreachable, 0 uncollectable, 0.0105s elapsed
+gc: collecting generation 0...
+gc: objects in each generation: 1386 0 83089
+gc: objects in permanent generation: 0
+gc: done, 0 unreachable, 0 uncollectable, 0.0001s elapsed
+gc: collecting generation 0...
+gc: objects in each generation: 748 1386 83015
+gc: objects in permanent generation: 0
+gc: done, 0 unreachable, 0 uncollectable, 0.0000s elapsed
+gc: collecting generation 2...
+gc: objects in each generation: 315 2134 82889
+gc: objects in permanent generation: 0
+gc: done, 199 unreachable, 0 uncollectable, 0.0135s elapsed
+gc: collecting generation 2...
+gc: objects in each generation: 0 0 69319
+gc: objects in permanent generation: 0
+gc: done, 36844 unreachable, 0 uncollectable, 0.0191s elapsed
+neemazahedi@Neemas-MacBook-Pro Webscrape % 
